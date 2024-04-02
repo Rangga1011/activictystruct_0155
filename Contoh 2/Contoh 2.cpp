@@ -20,6 +20,11 @@ int main() {
 	cout << "Nama Mahasiswa :";
 	cin >> mhs.nama;
 
+	cout << "alamat mahasiswa : ";
+	cout << "\t nama Desa : ";
+	cin >> mhs.alamat.desa;
+
+
 
 
 
