@@ -31,6 +31,8 @@ int main() {
 	cout << "\n alamat : ";
 	cout << "\n Desa : " << mhs.alamat.desa;
 	cout << "\n Kota : " << mhs.alamat.kota;
+	cout << "\n Umur : " << mhs.umur;
+}
 
 
 
