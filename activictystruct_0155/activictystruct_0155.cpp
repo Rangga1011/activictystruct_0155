@@ -23,6 +23,7 @@ int main() {
 	cout << endl;
 	cout << "\n Nim :" << mhs.nim;
 	cout << "\n Nama : " << mhs.nama;
+	cout << "\n alamat : " << mhs.alamat;
 
 
 
